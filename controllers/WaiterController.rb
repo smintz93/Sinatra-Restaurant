@@ -11,7 +11,6 @@ class WaiterController < ApplicationController
 
 
 
-
 	# get all the orders for a waiter
 	get '/:id/orders' do 
 

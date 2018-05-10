@@ -9,7 +9,6 @@ class ApplicationController < Sinatra::Base
 	)
 
 
-
 	register Sinatra::CrossOrigin
 
 	configure do
